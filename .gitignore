@@ -4,3 +4,7 @@ venv/
 .config/
 .replit
 replit.nix
+__pycache__
+.gitignore
+.breakpoints
+pyproject.toml
